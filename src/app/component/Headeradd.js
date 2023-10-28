@@ -1,7 +1,7 @@
 import React from 'react'
  
 import { BiUser ,BiHeart} from 'react-icons/bi'
-import { HiOutlineShoppingBag} from 'react-icons/Hi'
+import { HiOutlineShoppingBag} from 'react-icons/hi'
 
 
 const headeradd = () => {
