@@ -1,0 +1,27 @@
+{
+  "name": "shopping",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@stripe/stripe-js": "^2.1.10",
+    "firebase": "^10.5.0",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-icons": "^4.11.0",
+    "react-slick": "^0.29.0",
+    "slick-carousel": "^1.8.1",
+    "swiper": "^10.3.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "latest",
+    "postcss": "latest",
+    "tailwindcss": "latest"
+  }
+}
